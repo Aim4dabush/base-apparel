@@ -1,0 +1,30 @@
+.bold-text {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 600;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+#promotion {
+  margin-left: 10rem;
+  margin-top: 7rem;
+}
+
+#small-text {
+  color: #ce9797;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  margin-top: 3rem;
+}
+
+#we-are {
+  color: #ce9797;
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+  letter-spacing: 5px;
+  margin-bottom: 0;
+}

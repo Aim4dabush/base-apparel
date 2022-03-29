@@ -1,0 +1,19 @@
+.App {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+#background-position {
+  position: absolute;
+  z-index: -1;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: 60% 40%;
+  height: 800px;
+  width: 1440px;
+}
