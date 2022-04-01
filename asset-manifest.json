@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//aim4dabush.github.io/static/css/main.a189a26e.css",
+    "main.js": "/https//aim4dabush.github.io/static/js/main.9d699705.js",
+    "index.html": "/https//aim4dabush.github.io/index.html",
+    "main.a189a26e.css.map": "/https//aim4dabush.github.io/static/css/main.a189a26e.css.map",
+    "main.9d699705.js.map": "/https//aim4dabush.github.io/static/js/main.9d699705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a189a26e.css",
+    "static/js/main.9d699705.js"
+  ]
+}
