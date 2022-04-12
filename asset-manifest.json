@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//aim4dabush.github.io/base-apparel/static/css/main.a189a26e.css",
-    "main.js": "/https//aim4dabush.github.io/base-apparel/static/js/main.d41b6a20.js",
-    "index.html": "/https//aim4dabush.github.io/base-apparel/index.html",
-    "main.a189a26e.css.map": "/https//aim4dabush.github.io/base-apparel/static/css/main.a189a26e.css.map",
-    "main.d41b6a20.js.map": "/https//aim4dabush.github.io/base-apparel/static/js/main.d41b6a20.js.map"
+    "main.css": "/base-apparel/static/css/main.a189a26e.css",
+    "main.js": "/base-apparel/static/js/main.111cc4fd.js",
+    "index.html": "/base-apparel/index.html",
+    "main.a189a26e.css.map": "/base-apparel/static/css/main.a189a26e.css.map",
+    "main.111cc4fd.js.map": "/base-apparel/static/js/main.111cc4fd.js.map"
   },
   "entrypoints": [
     "static/css/main.a189a26e.css",
-    "static/js/main.d41b6a20.js"
+    "static/js/main.111cc4fd.js"
   ]
 }
